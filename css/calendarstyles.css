@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+th, td {
+    padding: 5px; /* Reduced padding */
+    text-align: center;
+    font-size: 0.9em; /* Reduced font size */
+}
+
+caption {
+    font-weight: bold;
+    font-size: 1em; /* Adjusted font size */
+    margin-bottom: 5px; /* Reduced margin */
+}
